@@ -1,7 +1,6 @@
 # Importar librerias
 import numpy as np
 import matplotlib.pyplot as plt
-import pygame
 # Tablero aleatorio de 0 ( muerto) y 1 ( vivo)
 xc = 30
 yc = 30
